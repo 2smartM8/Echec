@@ -22,6 +22,6 @@ def placerPieces(tableau, piecesB):
 
 # Fonction pour faire deplacer les pieces 
 def deplacement(tableau):
-    
+    pass
 placerPieces(tableau,piecesB)
         
